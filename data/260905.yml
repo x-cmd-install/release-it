@@ -7,13 +7,13 @@ about:
   head: aa8752d
   archived: false
   latestVersion: 21.0.2
-  collectedAt: 2026-09-05T05:06:30Z
+  collectedAt: 2026-09-05T18:31:40Z
 timeline:
   created: 2014-01-15
   lastCommit: 2026-08-09
   lastRelease: 2026-08-09
 popularity:
-  star: 9042
+  star: 9043
   watcher: 37
   fork: 573
   release: 412
@@ -83,7 +83,7 @@ total:
   commit: 2052
 ---
 path: /home/runner/.x-repo/github.com/release-it/release-it
-collectedAt: 2026-09-05T05:06:31Z
+collectedAt: 2026-09-05T18:31:42Z
 loc:
   JavaScript:
     code: 7680
