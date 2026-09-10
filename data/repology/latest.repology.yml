@@ -1,0 +1,19 @@
+- repo: aur
+  srcname: release-it
+  binname: release-it
+  visiblename: release-it
+  version: 14.2.1
+  origversion: 14.2.1-1
+  status: outdated
+  summary: Automate versioning and package publishing
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: release-it
+  visiblename: release-it
+  version: 21.0.2
+  origversion: null
+  status: newest
+  summary: Generic CLI tool to automate versioning and package publishing related tasks
