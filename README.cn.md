@@ -4,7 +4,7 @@
 
 🚀 Automate versioning and package publishing
 
-![release-it](https://repo.x-cmd.io/release-it.svg)
+![release-it](https://repo.x-cmd.io/release-it.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install release-it
 
 - **最新版本**: `21.0.2` (2026-08-09)
 - **最近提交**: 2026-08-09
-- **发布时间**: 2026-08-09T07:29:54Z
 
 ## 流行度
 
-- **Star**: 9,053 · **Fork**: 572 · **开放 issue**: 821 · **贡献者**: 135
+- **Star**: 9,052 · **Fork**: 572 · **开放 issue**: 821 · **贡献者**: 135
 
 ## 累计统计
 
@@ -70,4 +69,4 @@ release-it 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:02:10Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:39Z._
