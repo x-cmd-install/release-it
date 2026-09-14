@@ -56,20 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-15 | 3 | 1 | 4 | 3 | 2 | 19 |
-| 90d | 2026-06-15 | 4 | 5 | 4 | 6 | 2 | 28 |
-| last180d | 2026-03-17 | 10 | 10 | 4 | 12 | 2 | 66 |
-| 360d | 2025-09-18 | 18 | 19 | 5 | 35 | 3 | 106 |
-| last720d | 2024-09-23 | 40 | 48 | 5 | 90 | 3 | 223 |
-
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/release-it). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `21.0.2` | ✅ latest |
+| 30d | 2026-08-15 | 0 | 0 | 2 | 0 | 1 | 0 |
+| last60d | 2026-07-16 | 3 | 1 | 4 | 2 | 2 | 19 |
+| 90d | 2026-06-16 | 4 | 5 | 4 | 6 | 2 | 28 |
+| last180d | 2026-03-18 | 10 | 10 | 4 | 12 | 2 | 66 |
+| 360d | 2025-09-19 | 17 | 19 | 5 | 35 | 3 | 101 |
+| last720d | 2024-09-24 | 40 | 48 | 5 | 90 | 3 | 223 |
 
 ## Improve this data
 
@@ -80,4 +72,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:11:28Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:05:58Z._
