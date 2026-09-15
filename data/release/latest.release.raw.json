@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/release-it/release-it/releases/367412908",
-  "assets_url": "https://api.github.com/repos/release-it/release-it/releases/367412908/assets",
-  "upload_url": "https://uploads.github.com/repos/release-it/release-it/releases/367412908/assets{?name,label}",
-  "html_url": "https://github.com/release-it/release-it/releases/tag/21.0.2",
-  "id": 367412908,
+  "url": "https://api.github.com/repos/release-it/release-it/releases/388186268",
+  "assets_url": "https://api.github.com/repos/release-it/release-it/releases/388186268/assets",
+  "upload_url": "https://uploads.github.com/repos/release-it/release-it/releases/388186268/assets{?name,label}",
+  "html_url": "https://github.com/release-it/release-it/releases/tag/21.0.3",
+  "id": 388186268,
   "author": {
     "login": "webpro",
     "id": 456426,
@@ -25,33 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAPLwoc4V5kas",
-  "tag_name": "21.0.2",
+  "node_id": "RE_kwDOAPLwoc4XI0Cc",
+  "tag_name": "21.0.3",
   "target_commitish": "main",
-  "name": "Release 21.0.2",
+  "name": "Release 21.0.3",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-08-09T07:28:55Z",
-  "updated_at": "2026-08-09T07:29:54Z",
-  "published_at": "2026-08-09T07:29:54Z",
+  "created_at": "2026-09-14T06:31:34Z",
+  "updated_at": "2026-09-14T06:31:39Z",
+  "published_at": "2026-09-14T06:31:39Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.0.2",
-  "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.0.2",
-  "body": "* Prevent duplicate comments on resolved issues and PRs (#1324) (7ca61cccd16ad56742ee0cb694c946353b66c117) - thanks @krisu-pl!\n* Migrate to pnpm + update deps (6c211f087f465af8942060812ec4ee662419da9f)",
-  "reactions": {
-    "url": "https://api.github.com/repos/release-it/release-it/releases/367412908/reactions",
-    "total_count": 1,
-    "+1": 0,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 0,
-    "rocket": 0,
-    "eyes": 1
-  },
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.0.3",
+  "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.0.3",
+  "body": "* Fix npm staging approval URL and prompt (9f64e098aa04aac44fe9484add1f1f2119fa294c)"
 }

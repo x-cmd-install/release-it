@@ -227,4 +227,3 @@ checks:
       - 'Info: SAST configuration detected: CodeQL'
       - 'Warn: 4 commits out of 6 are checked with a SAST tool'
 ---
-{"id":388186268,"author":{"login":"webpro","id":456426,"node_id":"MDQ6VXNlcjQ1NjQyNg==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAPLwoc4XI0Cc","tag_name":"21.0.3","target_commitish":"main","name":"Release 21.0.3","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-14T06:31:34Z","updated_at":"2026-09-14T06:31:39Z","published_at":"2026-09-14T06:31:39Z","assets":[],"body":"* Fix npm staging approval URL and prompt (9f64e098aa04aac44fe9484add1f1f2119fa294c)"}
