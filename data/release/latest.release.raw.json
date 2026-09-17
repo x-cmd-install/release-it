@@ -40,5 +40,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.0.3",
   "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.0.3",
-  "body": "* Fix npm staging approval URL and prompt (9f64e098aa04aac44fe9484add1f1f2119fa294c)"
+  "body": "* Fix npm staging approval URL and prompt (9f64e098aa04aac44fe9484add1f1f2119fa294c)",
+  "reactions": {
+    "url": "https://api.github.com/repos/release-it/release-it/releases/388186268/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  }
 }
