@@ -43,8 +43,8 @@
   "body": "* chore(deps): replace semver with verkit (#1329) (033dca25dcca548d889b13e0ae1b7d063b0dca92) - thanks @gameroman!\n* fix(schema): remove fragment from schema $id values (#1332) (6e4022238a2255d86842321d6cc8f5b72fc39194) - thanks @DanMat!\n* Fix version increments and coercion after verkit migration (eab4b8cef600379dc0211bebb9c8de0df1ce9bdb)\n* Log in to npm automatically before interactive publishing (resolve #1333) (76e409fd271509706307e31b1658389afb678d89)\n* Support proxy environment variables in GitLab (resolve #1131) (#1331) (afb5565a09dfd38a02d5dbcc6c6317d824ffcccd) - thanks @mrpmohiburrahman!\n* Update dependencies (9ca5d328012cd740094841069d295df8152ad695)\n* Narrow engines.node (98dcf1910981e13236d7ac02106a134bec71387d)\n* Fix version coercion for verkit 0.4 (7ee54c2d7528244a032da948f478381d898ee52a)",
   "reactions": {
     "url": "https://api.github.com/repos/release-it/release-it/releases/390488243/reactions",
-    "total_count": 2,
-    "+1": 1,
+    "total_count": 3,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
