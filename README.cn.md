@@ -30,9 +30,9 @@ x install release-it
 
 评分最低的几项:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -56,12 +56,12 @@ x install release-it
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 0 | 1 | 0 | 0 | 11 |
-| last60d | 2026-08-01 | 3 | 4 | 2 | 4 | 0 | 13 |
-| 90d | 2026-07-02 | 5 | 7 | 2 | 7 | 0 | 37 |
-| last180d | 2026-04-03 | 10 | 11 | 2 | 14 | 0 | 61 |
-| 360d | 2025-10-05 | 19 | 22 | 3 | 36 | 1 | 112 |
-| last720d | 2024-10-10 | 39 | 49 | 3 | 88 | 1 | 220 |
+| 30d | 2026-09-01 | 2 | 0 | 1 | 0 | 0 | 11 |
+| last60d | 2026-08-02 | 3 | 4 | 2 | 4 | 0 | 13 |
+| 90d | 2026-07-03 | 5 | 7 | 2 | 7 | 0 | 37 |
+| last180d | 2026-04-04 | 10 | 11 | 2 | 14 | 0 | 61 |
+| 360d | 2025-10-06 | 19 | 22 | 3 | 35 | 1 | 112 |
+| last720d | 2024-10-11 | 39 | 48 | 3 | 88 | 1 | 219 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ release-it 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260930.yml` · 2026-09-30T05:49:24Z._
+_数据快照: `data/card/261001.yml` · 2026-10-01T06:00:07Z._

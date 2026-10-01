@@ -30,9 +30,9 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 2 | 0 | 1 | 0 | 0 | 11 |
-| last60d | 2026-08-01 | 3 | 4 | 2 | 4 | 0 | 13 |
-| 90d | 2026-07-02 | 5 | 7 | 2 | 7 | 0 | 37 |
-| last180d | 2026-04-03 | 10 | 11 | 2 | 14 | 0 | 61 |
-| 360d | 2025-10-05 | 19 | 22 | 3 | 36 | 1 | 112 |
-| last720d | 2024-10-10 | 39 | 49 | 3 | 88 | 1 | 220 |
+| 30d | 2026-09-01 | 2 | 0 | 1 | 0 | 0 | 11 |
+| last60d | 2026-08-02 | 3 | 4 | 2 | 4 | 0 | 13 |
+| 90d | 2026-07-03 | 5 | 7 | 2 | 7 | 0 | 37 |
+| last180d | 2026-04-04 | 10 | 11 | 2 | 14 | 0 | 61 |
+| 360d | 2025-10-06 | 19 | 22 | 3 | 35 | 1 | 112 |
+| last720d | 2024-10-11 | 39 | 48 | 3 | 88 | 1 | 219 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:49:24Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:00:06Z._
