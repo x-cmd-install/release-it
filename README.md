@@ -14,12 +14,12 @@ x install release-it
 
 ## Code insight
 
-Total: **13,038** lines of code across **72** files in the top 5 languages.
+Total: **13,044** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 8,079 | 129 | 1,321 | 57 |
-| Yaml | 4,080 | 0 | 1,212 | 2 |
+| Yaml | 4,086 | 0 | 1,212 | 2 |
 | Json | 678 | 0 | 0 | 9 |
 | TypeScript | 126 | 67 | 77 | 3 |
 | Sh | 38 | 15 | 12 | 1 |
@@ -30,9 +30,9 @@ Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.1.0` (2026-09-17)
-- **Last commit**: 2026-09-17
+- **Latest**: `21.1.1` (2026-10-07)
+- **Last commit**: 2026-10-07
 
 ## Popularity
 
-- **Stars**: 9,066 · **Forks**: 574 · **Open issues**: 823 · **Contributors**: 138
+- **Stars**: 9,066 · **Forks**: 574 · **Open issues**: 823 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 414 · **Merged PRs**: 219 · **Open PRs**: 3 · **Closed issues**: 820 · **Open issues**: 3 · **Commits**: 2063
+- **Releases**: 415 · **Merged PRs**: 220 · **Open PRs**: 2 · **Closed issues**: 821 · **Open issues**: 2 · **Commits**: 2068
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 0 | 1 | 1 | 1 | 11 |
-| last60d | 2026-08-08 | 3 | 3 | 2 | 3 | 1 | 11 |
-| 90d | 2026-07-09 | 5 | 6 | 2 | 7 | 1 | 30 |
-| last180d | 2026-04-10 | 10 | 11 | 2 | 15 | 1 | 61 |
-| 360d | 2025-10-12 | 19 | 22 | 3 | 35 | 2 | 112 |
-| last720d | 2024-10-17 | 37 | 46 | 3 | 86 | 2 | 211 |
+| 30d | 2026-09-08 | 3 | 1 | 0 | 2 | 0 | 16 |
+| last60d | 2026-08-09 | 4 | 4 | 1 | 4 | 0 | 16 |
+| 90d | 2026-07-10 | 6 | 6 | 1 | 8 | 0 | 35 |
+| last180d | 2026-04-11 | 11 | 12 | 1 | 16 | 0 | 66 |
+| 360d | 2025-10-13 | 20 | 22 | 2 | 36 | 1 | 117 |
+| last720d | 2024-10-18 | 38 | 46 | 2 | 87 | 1 | 216 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:01:24Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:22:59Z._
