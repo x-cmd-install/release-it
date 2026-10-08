@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/release-it/release-it/releases/390488243",
-  "assets_url": "https://api.github.com/repos/release-it/release-it/releases/390488243/assets",
-  "upload_url": "https://uploads.github.com/repos/release-it/release-it/releases/390488243/assets{?name,label}",
-  "html_url": "https://github.com/release-it/release-it/releases/tag/21.1.0",
-  "id": 390488243,
+  "url": "https://api.github.com/repos/release-it/release-it/releases/405878566",
+  "assets_url": "https://api.github.com/repos/release-it/release-it/releases/405878566/assets",
+  "upload_url": "https://uploads.github.com/repos/release-it/release-it/releases/405878566/assets{?name,label}",
+  "html_url": "https://github.com/release-it/release-it/releases/tag/21.1.1",
+  "id": 405878566,
   "author": {
     "login": "webpro",
     "id": 456426,
@@ -25,33 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAPLwoc4XRmCz",
-  "tag_name": "21.1.0",
+  "node_id": "RE_kwDOAPLwoc4YMTcm",
+  "tag_name": "21.1.1",
   "target_commitish": "main",
-  "name": "Release 21.1.0",
+  "name": "Release 21.1.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-09-17T06:47:22Z",
-  "updated_at": "2026-09-17T06:47:27Z",
-  "published_at": "2026-09-17T06:47:27Z",
+  "created_at": "2026-10-07T14:52:57Z",
+  "updated_at": "2026-10-07T14:53:03Z",
+  "published_at": "2026-10-07T14:53:03Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.1.0",
-  "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.1.0",
-  "body": "* chore(deps): replace semver with verkit (#1329) (033dca25dcca548d889b13e0ae1b7d063b0dca92) - thanks @gameroman!\n* fix(schema): remove fragment from schema $id values (#1332) (6e4022238a2255d86842321d6cc8f5b72fc39194) - thanks @DanMat!\n* Fix version increments and coercion after verkit migration (eab4b8cef600379dc0211bebb9c8de0df1ce9bdb)\n* Log in to npm automatically before interactive publishing (resolve #1333) (76e409fd271509706307e31b1658389afb678d89)\n* Support proxy environment variables in GitLab (resolve #1131) (#1331) (afb5565a09dfd38a02d5dbcc6c6317d824ffcccd) - thanks @mrpmohiburrahman!\n* Update dependencies (9ca5d328012cd740094841069d295df8152ad695)\n* Narrow engines.node (98dcf1910981e13236d7ac02106a134bec71387d)\n* Fix version coercion for verkit 0.4 (7ee54c2d7528244a032da948f478381d898ee52a)",
-  "reactions": {
-    "url": "https://api.github.com/repos/release-it/release-it/releases/390488243/reactions",
-    "total_count": 4,
-    "+1": 2,
-    "-1": 0,
-    "laugh": 0,
-    "hooray": 0,
-    "confused": 0,
-    "heart": 1,
-    "rocket": 0,
-    "eyes": 1
-  },
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.1.1",
+  "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.1.1",
+  "body": "* docs: add release-it-git-cliff to plugins list (#1334) (bf2a3d8625f1ffb68cab1a55564761493febf381) - thanks @adamhl8!\n* Update undici to 7.29.1 (resolve #1335) (37898f1b44d88555ce25a573ea3ce379279a8279)\n* Update more dependencies (7bd73af08fe1a1b3ba0a436f888f102263fcf2c9)\n* Migrate verkit import (5336543483af172853668d3b67def6eafc6a652a)",
+  "mentions_count": 1
 }
