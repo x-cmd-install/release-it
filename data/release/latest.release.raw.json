@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/release-it/release-it/tarball/21.1.1",
   "zipball_url": "https://api.github.com/repos/release-it/release-it/zipball/21.1.1",
   "body": "* docs: add release-it-git-cliff to plugins list (#1334) (bf2a3d8625f1ffb68cab1a55564761493febf381) - thanks @adamhl8!\n* Update undici to 7.29.1 (resolve #1335) (37898f1b44d88555ce25a573ea3ce379279a8279)\n* Update more dependencies (7bd73af08fe1a1b3ba0a436f888f102263fcf2c9)\n* Migrate verkit import (5336543483af172853668d3b67def6eafc6a652a)",
+  "reactions": {
+    "url": "https://api.github.com/repos/release-it/release-it/releases/405878566/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 1
+  },
   "mentions_count": 1
 }
