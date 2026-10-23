@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,075 · **Forks**: 576 · **Open issues**: 825 · **Contributors**: 139
+- **Stars**: 9,076 · **Forks**: 576 · **Open issues**: 825 · **Contributors**: 139
 
 ## Totals (cumulative)
 
@@ -56,12 +56,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 1 | 3 | 2 | 2 | 5 |
-| last60d | 2026-08-23 | 3 | 1 | 3 | 3 | 2 | 16 |
-| 90d | 2026-07-24 | 6 | 5 | 4 | 6 | 2 | 21 |
-| last180d | 2026-04-25 | 9 | 11 | 4 | 13 | 2 | 58 |
-| 360d | 2025-10-27 | 20 | 21 | 5 | 33 | 3 | 117 |
-| last720d | 2024-11-01 | 38 | 45 | 5 | 83 | 3 | 214 |
+| 30d | 2026-09-23 | 1 | 1 | 3 | 2 | 2 | 5 |
+| last60d | 2026-08-24 | 3 | 1 | 3 | 3 | 2 | 16 |
+| 90d | 2026-07-25 | 6 | 5 | 4 | 6 | 2 | 21 |
+| last180d | 2026-04-26 | 9 | 11 | 4 | 13 | 2 | 58 |
+| 360d | 2025-10-28 | 20 | 21 | 5 | 32 | 3 | 117 |
+| last720d | 2024-11-02 | 38 | 45 | 5 | 83 | 3 | 214 |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/release-it). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `21.1.1` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:48:50Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:55:07Z._
