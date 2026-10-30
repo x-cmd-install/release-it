@@ -7,7 +7,7 @@ about:
   latestVersion: "21.1.1"
   latestRelease: "21.1.1"
   latestPrerelease: "20.0.0-1"
-  collectedAt: 2026-10-29T05:59:03Z
+  collectedAt: 2026-10-30T06:04:25Z
 timeline:
   created: 2014-01-15
   lastCommit: 2026-10-07
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-10-07
   lastPrerelease: 2026-03-24
 popularity:
-  star: 9081
+  star: 9083
   watcher: 30
-  fork: 575
+  fork: 577
   release: 415
   contributor: 139
-  pullRequest: 487
-  issue: 825
+  pullRequest: 489
+  issue: 826
 language:
   JavaScript: 332622
   Shell: 1971
@@ -29,63 +29,63 @@ language:
 totalBytes: 335610
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 1
     mergedPR: 0
-    openPR: 3
+    openPR: 5
     closedIssue: 2
-    openIssue: 2
+    openIssue: 3
     commit: 5
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 3
     mergedPR: 1
-    openPR: 3
+    openPR: 5
     closedIssue: 2
-    openIssue: 2
+    openIssue: 3
     commit: 16
   last90d:
-    since: 2026-07-31
-    release: 5
+    since: 2026-08-01
+    release: 4
     mergedPR: 5
-    openPR: 4
+    openPR: 6
     closedIssue: 6
-    openIssue: 2
+    openIssue: 3
     commit: 18
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 9
     mergedPR: 11
-    openPR: 4
+    openPR: 6
     closedIssue: 13
-    openIssue: 2
+    openIssue: 3
     commit: 58
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 20
     mergedPR: 21
-    openPR: 5
+    openPR: 7
     closedIssue: 32
-    openIssue: 3
+    openIssue: 4
     commit: 110
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 38
     mergedPR: 44
-    openPR: 5
+    openPR: 7
     closedIssue: 82
-    openIssue: 3
+    openIssue: 4
     commit: 214
 total:
   release: 415
   mergedPR: 220
-  openPR: 5
+  openPR: 7
   closedIssue: 821
-  openIssue: 4
+  openIssue: 5
   commit: 2068
 ---
 path: /home/runner/.x-repo/github.com/release-it/release-it
-collectedAt: 2026-10-29T05:59:04Z
+collectedAt: 2026-10-30T06:04:27Z
 loc:
   JavaScript:
     code: 8079
