@@ -13,7 +13,7 @@
 - repo: homebrew
   srcname: release-it
   visiblename: release-it
-  version: 21.1.1
+  version: 21.1.2
   origversion: null
   status: newest
   summary: Generic CLI tool to automate versioning and package publishing related tasks
