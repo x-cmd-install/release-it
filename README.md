@@ -14,11 +14,11 @@ x install release-it
 
 ## Code insight
 
-Total: **13,044** lines of code across **72** files in the top 5 languages.
+Total: **13,299** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,079 | 129 | 1,321 | 57 |
+| JavaScript | 8,334 | 129 | 1,349 | 57 |
 | Yaml | 4,086 | 0 | 1,212 | 2 |
 | Json | 678 | 0 | 0 | 9 |
 | TypeScript | 126 | 67 | 77 | 3 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.1.1` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Latest**: `21.1.2` (2026-10-30)
+- **Last commit**: 2026-10-30
 
 ## Popularity
 
-- **Stars**: 9,083 · **Forks**: 577 · **Open issues**: 826 · **Contributors**: 139
+- **Stars**: 9,083 · **Forks**: 577 · **Open issues**: 827 · **Contributors**: 139
 
 ## Totals (cumulative)
 
-- **Releases**: 415 · **Merged PRs**: 220 · **Open PRs**: 7 · **Closed issues**: 821 · **Open issues**: 5 · **Commits**: 2068
+- **Releases**: 416 · **Merged PRs**: 220 · **Open PRs**: 2 · **Closed issues**: 825 · **Open issues**: 2 · **Commits**: 2074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 1 | 0 | 5 | 2 | 3 | 5 |
-| last60d | 2026-08-31 | 3 | 1 | 5 | 2 | 3 | 16 |
-| 90d | 2026-08-01 | 4 | 5 | 6 | 6 | 3 | 18 |
-| last180d | 2026-05-03 | 9 | 11 | 6 | 13 | 3 | 58 |
-| 360d | 2025-11-04 | 20 | 21 | 7 | 32 | 4 | 110 |
-| last720d | 2024-11-09 | 38 | 44 | 7 | 82 | 4 | 214 |
+| 30d | 2026-10-01 | 2 | 0 | 1 | 4 | 2 | 11 |
+| last60d | 2026-09-01 | 4 | 1 | 1 | 4 | 2 | 22 |
+| 90d | 2026-08-02 | 5 | 5 | 2 | 8 | 2 | 24 |
+| last180d | 2026-05-04 | 10 | 11 | 2 | 15 | 2 | 64 |
+| 360d | 2025-11-05 | 21 | 21 | 2 | 35 | 2 | 116 |
+| last720d | 2024-11-10 | 39 | 44 | 2 | 85 | 2 | 220 |
 
 ## Distribution status
 
@@ -69,7 +69,7 @@ Reported by **2** distros on [repology.org](https://repology.org/project/release
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `21.1.1` | ✅ latest |
+| Homebrew | `21.1.2` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:04:38Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:45:25Z._
