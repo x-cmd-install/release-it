@@ -14,14 +14,14 @@ x install release-it
 
 ## Code insight
 
-Total: **13,299** lines of code across **72** files in the top 5 languages.
+Total: **13,310** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 8,334 | 129 | 1,349 | 57 |
 | Yaml | 4,086 | 0 | 1,212 | 2 |
 | Json | 678 | 0 | 0 | 9 |
-| TypeScript | 126 | 67 | 77 | 3 |
+| TypeScript | 137 | 70 | 81 | 3 |
 | Sh | 38 | 15 | 12 | 1 |
 
 ## OpenSSF Scorecard
@@ -42,26 +42,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `21.1.2` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-15
 
 ## Popularity
 
-- **Stars**: 9,084 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 139
+- **Stars**: 9,085 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 140
 
 ## Totals (cumulative)
 
-- **Releases**: 416 · **Merged PRs**: 220 · **Open PRs**: 9 · **Closed issues**: 825 · **Open issues**: 2 · **Commits**: 2074
+- **Releases**: 416 · **Merged PRs**: 221 · **Open PRs**: 8 · **Closed issues**: 826 · **Open issues**: 1 · **Commits**: 2075
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 1 | 0 | 7 | 2 | 1 | 6 |
-| last60d | 2026-09-16 | 3 | 1 | 8 | 4 | 2 | 18 |
-| 90d | 2026-08-17 | 4 | 3 | 8 | 5 | 2 | 22 |
-| last180d | 2026-05-19 | 10 | 11 | 9 | 14 | 2 | 64 |
-| 360d | 2025-11-20 | 20 | 20 | 9 | 33 | 2 | 116 |
-| last720d | 2024-11-25 | 39 | 44 | 9 | 84 | 2 | 220 |
+| 30d | 2026-10-17 | 1 | 0 | 7 | 2 | 1 | 7 |
+| last60d | 2026-09-17 | 3 | 2 | 7 | 5 | 1 | 12 |
+| 90d | 2026-08-18 | 4 | 3 | 7 | 6 | 1 | 23 |
+| last180d | 2026-05-20 | 10 | 12 | 8 | 15 | 1 | 64 |
+| 360d | 2025-11-21 | 20 | 21 | 8 | 34 | 1 | 117 |
+| last720d | 2024-11-26 | 39 | 45 | 8 | 85 | 1 | 221 |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:43:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:38:35Z._
