@@ -26,12 +26,12 @@ x install release-it
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (1/10) — Found 5/30 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -56,12 +56,12 @@ x install release-it
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 0 | 7 | 1 | 1 | 7 |
-| last60d | 2026-09-18 | 2 | 2 | 7 | 5 | 1 | 12 |
-| 90d | 2026-08-19 | 4 | 2 | 7 | 6 | 1 | 23 |
-| last180d | 2026-05-21 | 10 | 11 | 8 | 15 | 1 | 64 |
-| 360d | 2025-11-22 | 20 | 21 | 8 | 34 | 1 | 117 |
-| last720d | 2024-11-27 | 39 | 45 | 8 | 85 | 1 | 221 |
+| 30d | 2026-10-20 | 1 | 0 | 7 | 1 | 1 | 7 |
+| last60d | 2026-09-20 | 2 | 2 | 7 | 5 | 1 | 12 |
+| 90d | 2026-08-21 | 4 | 2 | 7 | 6 | 1 | 23 |
+| last180d | 2026-05-23 | 10 | 11 | 8 | 15 | 1 | 64 |
+| 360d | 2025-11-24 | 20 | 20 | 8 | 34 | 1 | 117 |
+| last720d | 2024-11-29 | 39 | 45 | 8 | 85 | 1 | 221 |
 
 ## 发行版状态
 
@@ -80,4 +80,4 @@ release-it 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T08:10:05Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:58:14Z._
