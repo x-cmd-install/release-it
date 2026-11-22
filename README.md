@@ -14,12 +14,12 @@ x install release-it
 
 ## Code insight
 
-Total: **13,310** lines of code across **72** files in the top 5 languages.
+Total: **13,203** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 8,334 | 129 | 1,349 | 57 |
-| Yaml | 4,086 | 0 | 1,212 | 2 |
+| JavaScript | 8,373 | 129 | 1,353 | 57 |
+| Yaml | 3,940 | 0 | 1,165 | 2 |
 | Json | 678 | 0 | 0 | 9 |
 | TypeScript | 137 | 70 | 81 | 3 |
 | Sh | 38 | 15 | 12 | 1 |
@@ -41,27 +41,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `21.1.2` (2026-10-30)
-- **Last commit**: 2026-11-15
+- **Latest**: `21.1.3` (2026-11-22)
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 9,087 · **Forks**: 580 · **Open issues**: 827 · **Contributors**: 140
+- **Stars**: 9,087 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 416 · **Merged PRs**: 221 · **Open PRs**: 9 · **Closed issues**: 826 · **Open issues**: 1 · **Commits**: 2075
+- **Releases**: 417 · **Merged PRs**: 224 · **Open PRs**: 5 · **Closed issues**: 827 · **Open issues**: 0 · **Commits**: 2080
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 0 | 8 | 1 | 1 | 7 |
-| last60d | 2026-09-22 | 2 | 2 | 8 | 5 | 1 | 12 |
-| 90d | 2026-08-23 | 4 | 2 | 8 | 6 | 1 | 23 |
-| last180d | 2026-05-25 | 10 | 11 | 9 | 15 | 1 | 64 |
-| 360d | 2025-11-26 | 20 | 20 | 9 | 34 | 1 | 117 |
-| last720d | 2024-12-01 | 39 | 45 | 9 | 85 | 1 | 221 |
+| 30d | 2026-10-23 | 2 | 3 | 4 | 2 | 0 | 12 |
+| last60d | 2026-09-23 | 3 | 5 | 4 | 6 | 0 | 17 |
+| 90d | 2026-08-24 | 5 | 5 | 4 | 7 | 0 | 28 |
+| last180d | 2026-05-26 | 11 | 14 | 5 | 16 | 0 | 56 |
+| 360d | 2025-11-27 | 21 | 23 | 5 | 35 | 0 | 122 |
+| last720d | 2024-12-02 | 40 | 48 | 5 | 86 | 0 | 226 |
 
 ## Distribution status
 
@@ -80,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:24:38Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:11:17Z._
