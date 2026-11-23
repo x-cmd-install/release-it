@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,087 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 142
+- **Stars**: 9,090 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 142
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 2 | 3 | 4 | 2 | 0 | 12 |
-| last60d | 2026-09-23 | 3 | 5 | 4 | 6 | 0 | 17 |
-| 90d | 2026-08-24 | 5 | 5 | 4 | 7 | 0 | 28 |
-| last180d | 2026-05-26 | 11 | 14 | 5 | 16 | 0 | 56 |
-| 360d | 2025-11-27 | 21 | 23 | 5 | 35 | 0 | 122 |
-| last720d | 2024-12-02 | 40 | 48 | 5 | 86 | 0 | 226 |
+| 30d | 2026-10-24 | 2 | 3 | 4 | 2 | 0 | 0 |
+| last60d | 2026-09-24 | 3 | 4 | 4 | 6 | 0 | 0 |
+| 90d | 2026-08-25 | 5 | 5 | 4 | 6 | 0 | 0 |
+| last180d | 2026-05-27 | 11 | 14 | 5 | 16 | 0 | 0 |
+| 360d | 2025-11-28 | 21 | 23 | 5 | 35 | 0 | 0 |
+| last720d | 2024-12-03 | 40 | 48 | 5 | 86 | 0 | 226 |
 
 ## Distribution status
 
@@ -69,7 +69,7 @@ Reported by **2** distros on [repology.org](https://repology.org/project/release
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `21.1.2` | ✅ latest |
+| Homebrew | `21.1.3` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T07:11:17Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T09:05:47Z._
