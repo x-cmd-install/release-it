@@ -46,22 +46,30 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,087 · **Forks**: 579 · **Open issues**: 827 · **Contributors**: 142
+- **Stars**: 9,087 · **Forks**: 579 · **Open issues**: 829 · **Contributors**: 142
 
 ## Totals (cumulative)
 
-- **Releases**: 417 · **Merged PRs**: 224 · **Open PRs**: 5 · **Closed issues**: 827 · **Open issues**: 0 · **Commits**: 2082
+- **Releases**: 417 · **Merged PRs**: 224 · **Open PRs**: 5 · **Closed issues**: 827 · **Open issues**: 2 · **Commits**: 2082
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 3 | 4 | 2 | 0 | 14 |
-| last60d | 2026-09-26 | 3 | 4 | 4 | 6 | 0 | 19 |
-| 90d | 2026-08-27 | 5 | 5 | 4 | 6 | 0 | 30 |
-| last180d | 2026-05-29 | 11 | 13 | 5 | 16 | 0 | 58 |
-| 360d | 2025-11-30 | 21 | 23 | 5 | 35 | 0 | 124 |
-| last720d | 2024-12-05 | 40 | 48 | 5 | 86 | 0 | 228 |
+| 30d | 2026-10-27 | 2 | 3 | 4 | 2 | 2 | 0 |
+| last60d | 2026-09-27 | 3 | 4 | 4 | 6 | 2 | 0 |
+| 90d | 2026-08-28 | 5 | 5 | 4 | 6 | 2 | 0 |
+| last180d | 2026-05-30 | 11 | 13 | 5 | 16 | 2 | 0 |
+| 360d | 2025-12-01 | 21 | 23 | 5 | 35 | 2 | 0 |
+| last720d | 2024-12-06 | 40 | 48 | 5 | 86 | 2 | 228 |
+
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/release-it). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `21.1.3` | ✅ latest |
 
 ## Improve this data
 
@@ -72,4 +80,4 @@ Install metadata for release-it lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:38:18Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:29:42Z._
